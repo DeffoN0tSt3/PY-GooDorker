@@ -1,7 +1,7 @@
 ## PY-GooDorker - Python 3 Google Dorker by sZ 
 Very simple Python Google Dorker
 
-## Ver
+## Current Ver
 v0.2 - Updated to work with Python3
 
 ## To be used for legitimate, authorized pen testing only.
