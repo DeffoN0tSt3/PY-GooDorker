@@ -1,22 +1,21 @@
-## PY-GooDorker - Python 3 Google Dorker by sZ 
-Very simple Python Google Dorker
+## PY-GooDorker - Python 3 Google Dorker by n0tst3
 
-## Current Ver
-v0.2 - Updated to work with Python3
+This is a simple Python 3 Google Dorker that can be used for legitimate, authorized pen testing only.
 
-## To be used for legitimate, authorized pen testing only.
-## DISCLAIMER: 
-ANY MALICIOUS USE OF THE CONTENTS FROM THIS ARTICLE WILL NOT HOLD THE AUTHOR & OR UPLOADER RESPONSIBLE,
-THE CONTENTS ARE SOLELY FOR EDUCATIONAL PURPOSE & LEGITIMATE Authorized PENTESTING.
+### Current Version
+The current version is v0.2, which has been updated to work with Python3.
 
-## Example Usage - Output will be displayed in console and saved in same dir as script.
+### Disclaimer
+Please note that any malicious use of the contents of this article will not hold the author and/or uploader responsible. The contents are solely for educational purposes and legitimate authorized pentesting.
+
+### Example Usage
+To use the script, simply run the following command:
+
+
 
 python3 goodkr.py 
 
 > Dork: Input: products.php?id=
 
-> Country: Input: US
-
-> Output filename: Input: goo-prods
 
 
